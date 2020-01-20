@@ -1,2 +1,2 @@
 # iOS-school-practice1
-Practice1
+Epam IOS school Practice1
